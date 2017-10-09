@@ -4,7 +4,7 @@ weight: 0
 title: Segmenting Your Traffic
 seo:
   title: Segmenting Your Traffic Overview
-  description: Segmenting your traffic protects your deliverability and keeps your stats seperate by type of email.
+  description: Segmenting your traffic protects your deliverability and keeps your stats separate by type of email.
 navigation:
   show: true
 ---
